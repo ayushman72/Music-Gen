@@ -4,7 +4,7 @@ This repository showcases one such neural network which  is able to produce some
 
 ## Model Architecture
 The model leverages the GRU architecture.
-For indepth analysis do checkout the [training notebook](./MusicGen.ipynb)
+For indepth analysis do checkout the [training notebook](./MusicGen.ipynb) or checkout the model on [Kaggle](https://www.kaggle.com/code/ayushman72/music-generation-pytorch-lightning-v2)
 
 ![architecture](./results/version_0.png)
 
