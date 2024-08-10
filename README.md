@@ -34,36 +34,38 @@ To generate your own pieces I would suggest you to open the [prediction.ipynb](p
 Here are some of the generated music pieces.
 
 * Prediction 1
-![Sheet Music](./results/melody-0.png)
-<audio controls>
-  <source src="./results/test-0.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+  
+https://github.com/user-attachments/assets/796a2ef9-c25c-4542-aa08-ab004356cca0
+
+
 
 * Prediction 2
-![Sheet Music](./results/melody-1.png)
-<audio controls>
-  <source src="./results/test-1.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+
+
+https://github.com/user-attachments/assets/135ce48b-296c-4a2e-b357-fa86b1dc432d
+
+
 
 * Prediction 3
-![Sheet Music](./results/melody-2.png)
-<audio controls>
-  <source src="./results/test-2.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+
+
+https://github.com/user-attachments/assets/0534938b-67f6-4f11-8cb1-f5ee9068d8e8
+
+
 
 * Prediction 4
-![Sheet Music](./results/melody-3.png)
-<audio controls>
-  <source src="./results/test-3.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
 
-* Prediction 5
-![Sheet Music](./results/melody-4.png)
-<audio controls>
-  <source src="./results/test-4.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+
+https://github.com/user-attachments/assets/48ec8900-c446-4564-acb1-7f19dbb2233f
+
+
+* prediction 5 
+
+https://github.com/user-attachments/assets/1db5b399-ff81-4f08-8acc-e5fa7b3767b1
+
+
+## Help Me Benchmark It
+
+If you have listened to all these prediction please share your review by filling this [form](https://forms.gle/6JqQzFy8KrzDQByCA) 
+
+Thank You
