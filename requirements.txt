@@ -1,0 +1,7 @@
+numpy
+torch
+lightning
+music21
+midi2audio
+matplotlib
+tqdm
